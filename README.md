@@ -10,7 +10,7 @@ Tired of scattered Python scripts across countless directories? The Python Codex
 
 This is more than just an archiver; it's a portable development environment for your entire scripting workshop.
 
-![Main Interface of The Python Codex](https://github.com/zbirow/Python-Codex/blob/main/codex.png)
+![Main Interface of The Python Codex](https://github.com/zbirow/Python-Codex/blob/main/codex0.png)
 _The main application interface, showing the project list and info panel._
 
 ---
